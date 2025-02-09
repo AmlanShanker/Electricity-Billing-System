@@ -4,4 +4,4 @@ Administrators can add new customers, assign meter numbers, calculate electricit
 
 The system relies on five tables: login, customer, meter_info, tax, and bill, where all relevant data is stored. By combining Java and JDBC, this project provides a simple and effective solution for managing electricity billing tasks for both administrators and customers.
 
-![cat](https://github.com/user-attachments/assets/bb337172-818d-4bc0-929a-58cc981e4dde)
+
